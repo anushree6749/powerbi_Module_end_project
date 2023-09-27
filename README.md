@@ -24,10 +24,10 @@
   8)Tables:
 Information displayed through tables provide more clarity and is easy to understand.
 ![table 1](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/66b6b428-002d-47a7-ac2f-bac59c5f88d9)
-![table 1](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/a66c6ca7-5993-44f1-bcf4-f8ba9dfa0c1b)
+![table 1](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/a66c6ca7-5993-44f1-bcf4-f8ba9dfa0c1bS)
 
 9) Pie Chart:
-   # The diffrenet mode of shipping is displayed in a pie chart .
+   # Ship mode 
    ![pie chart](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/e7e63f7e-f1d9-462e-9e8b-90644c7e2dda)
 
    # Segment wise sales figure .
