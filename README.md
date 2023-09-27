@@ -12,11 +12,12 @@
 
 5) Customizing the dashboard with relevant details.
    Dashboard
-   This page provides basic information like total sales , profit earned ,quatity sold and total customers.
+ This page provides basic information like total sales , profit earned ,quantity sold and total customers.
+ ![Overview](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/8d6d1e0b-a7e7-4a2b-8018-1ecfd9dfa73b)
 
-
-   Sales:
-   The provides an insight into sales by state, region and city.
+ 6) Sales:
+ Sales dashboard provides insights about sales figures ,categorized into State,Region,City and Year wise.
+![Sales](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/1ba04279-2938-4173-aee9-43c991e9854a)
    
 
    Tables:
