@@ -21,9 +21,7 @@
 ![Sales](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/1ba04279-2938-4173-aee9-43c991e9854a)
 ![yr wise sales](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/a314b1fc-d1b2-467e-bd3d-3e29cd8d72ab)
 
-  
-
-8)Tables:
+  8)Tables:
 Information displayed through tables provide more clarity and is easy to understand.
 ![table 1](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/66b6b428-002d-47a7-ac2f-bac59c5f88d9)
 ![table 1](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/a66c6ca7-5993-44f1-bcf4-f8ba9dfa0c1b)
