@@ -32,6 +32,10 @@ Information displayed through tables provide more clarity and is easy to underst
 
    # Segment wise sales figure .
      ![pie chart 2](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/b49d85ce-ba42-49d5-bf3a-47fa8d694b7c)
+ 10) Bar Chart:
+     Cost incurred towards shipping to various countries by the store    
+   ![shipping cost](https://github.com/anushree6749/powerbi_Module_end_project/assets/138094071/ffaeb36c-8a5b-43df-8f70-b4f63e0306e4)
+
 
 
     
